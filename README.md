@@ -1,10 +1,11 @@
-This is very clumsy and rudimentary digital audio workstation that mainly allows you to plugin a midi keyboard and play chord progressions based on single notes that you have to provide yourself.
-No Audio Edititing. 
+# General Info
+
+This is a very clumsy and rudimentary Digital Audio Workstation (DAW) written that mainly allows you to plugin a midi keyboard and play chord progressions based on single notes that you have to provide yourself.
+No editing or something akin to that is supported.
 
 Chord Progression Playback
 Real Audio Recording
 Digital Audio Recording (of the buttons pressed in the DAW)
-
 
 # Dependencies
 
@@ -13,8 +14,6 @@ pip install pygame
 pip install Pillow
 
 ```
-
-
 # Provide your own audio
 Due to copyright reasons you'll have to provide your own audio.
 In order to get this software working, check out the picture inn the notes folder.
