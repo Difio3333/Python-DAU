@@ -1,4 +1,4 @@
-
+print("Chords")
 def create_5th(note):
 	firstNote = note	
 	secondNote = whichNote(note+7)
