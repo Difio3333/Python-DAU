@@ -27,55 +27,55 @@ In my case all the soundfiles are about 1 second long but you can obviously vari
 Once you have the audio files setup and the dependencies installed, run main.py.
 This will open a black pygame screen that you can navigate with the following keys.
 
-Shift | Switches key. The programm always starts in C Major.
+**Shift** | Switches key. The programm always starts in C Major.
 
-CTRL | Switches Chord Progression (These are named horribly you just have to go through them and see which you liked).
+**CTRL** | Switches Chord Progression (These are named horribly you just have to go through them and see which you liked).
 
-Enter | Plays a tune in the current key and chord progression and displays the currently played progression with guitar annotation. (this really is the coolest and best working feature of this software.
+**Enter** | Plays a tune in the current key and chord progression and displays the currently played progression with guitar annotation. (this really is the coolest and best working feature of this software.
 
-Backspace | Stops the the tune you started with Enter.
+**Backspace** | Stops the the tune you started with Enter.
 
-Escape | Closes the programm.
+**Escape** | Closes the programm.
 
-Numbers 1-7 | Play the first, second, third chord of the currently selected key. So in C-Major Key 1 plays a C-Major Key 2 plays a D-Minor and so on.
+**Numbers 1-7** | Play the first, second, third chord of the currently selected key. So in C-Major Key 1 plays a C-Major Key 2 plays a D-Minor and so on.
 
-Space | You can type in a couple of chords (in the terminal, not the pygame window) and it'll tell you which key they are in.
+**Space** | You can type in a couple of chords (in the terminal, not the pygame window) and it'll tell you which key they are in.
 
-z | Plays 'c'
+**z** | Plays 'c'
 
-u | Plays 'c-'
+**u** | Plays 'c-'
 
-i | Plays 'd'
+**i** | Plays 'd'
 
-o | Plays 'd-'
+**o** | Plays 'd-'
 
-h | Plays 'e'
+**h** | Plays 'e'
 
-j | Plays 'f'
+**j** | Plays 'f'
 
-k | Plays 'f-'
+**k** | Plays 'f-'
 
-l | Plays 'g'
+**l** | Plays 'g'
 
-n | Plays 'g-'
+**n** | Plays 'g-'
 
-m | Plays 'a'
+**m** | Plays 'a'
 
-, | Plays 'a-'
+**,** | Plays 'a-'
 
-. | Plays 'b'
+**.** | Plays 'b'
 
-r | Records your the input that you play with your numberkeys, the Z to . notes or a connected midikeyboard. Press r again to stop the recording.
+**r** | Records your the input that you play with your numberkeys, the Z to . notes or a connected midikeyboard. Press r again to stop the recording.
 
-p | Plays the playback of your recording of r.
+**p** | Plays the playback of your recording of r.
 
-\+ | Moves up all the single notes an octave.
+**\+** | Moves up all the single notes an octave.
 
-\- | Moves down all the single notes an octave.
+**\-** | Moves down all the single notes an octave.
 
-x | Experimentally records audio through your microphone and tells you the chords you played and the corresponding key.  (you'll have to check the record_wav_audio function and edit line 90 to the name of your microphone for this to work)
+**x** | Experimentally records audio through your microphone and tells you the chords you played and the corresponding key.  (you'll have to check the record_wav_audio function and edit line 90 to the name of your microphone for this to work)
 
-b | Switches the programm into blues mode.
+**b** | Switches the programm into blues mode.
 
 # Midi Keyboard Setup.
 
