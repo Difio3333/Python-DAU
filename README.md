@@ -14,6 +14,9 @@ pip install pygame
 pip install Pillow
 
 ```
+# Example Video
+[Listen to the output of the software](https://youtu.be/uLjL0bSK6Uw)
+
 # Provide your own audio
 Due to copyright reasons you'll have to provide your own audio.
 In order to get this software working, check out the picture inn the notes folder.
@@ -34,6 +37,8 @@ This will open a black pygame screen that you can navigate with the following ke
 **Enter** | Plays a tune in the current key and chord progression and displays the currently played progression with guitar annotation. (this really is the coolest and best working feature of this software.
 
 **Backspace** | Stops the the tune you started with Enter.
+
+**w** | Plays a tune in the current key and chord progression **with a nice melody on top**. Not skippable.
 
 **Escape** | Closes the programm.
 
