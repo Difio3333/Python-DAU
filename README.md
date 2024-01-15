@@ -12,6 +12,7 @@ Digital Audio Recording (of the buttons pressed in the DAW)
 ```bash
 pip install pygame
 pip install Pillow
+pip install autochord
 
 ```
 # Example Video
